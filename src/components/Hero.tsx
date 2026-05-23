@@ -180,7 +180,7 @@ export default function Hero({ loaded }: { loaded: boolean }) {
         {/* Stats row */}
         <div className="hero-scatter grid grid-cols-3 gap-3 mt-8 border-t border-[#111111]/10 pt-6">
           {[
-            { n: "5+", l: "Years Exp" },
+            { n: "8+", l: "Hustling" },
             { n: "40+", l: "Projects" },
             { n: "12+", l: "Clients" },
           ].map((s) => (
